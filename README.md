@@ -11,7 +11,7 @@ Ett inlägg består av
 
 Checklista: Funktionalitet för Godkänt
 Planering:
-- Du ska i serverkomponenten ha en fil som heter README.md där du
+- [ ] Du ska i serverkomponenten ha en fil som heter README.md där du
 listar minst 10 punkter med saker du behöver göra. Beskrivningarna
 kan vara korta men ska vara tydliga. Det ska tydligt gå att utläsa
 huruvida den punkten är avklarad eller inte.
